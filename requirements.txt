@@ -1,0 +1,7 @@
+streamlit==0.88.0
+scapy==2.4.5
+socket==0.0.1
+time==0.0.1
+matplotlib==3.4.2
+pyecharts==1.9.0
+streamlit_echarts==0.2.0
